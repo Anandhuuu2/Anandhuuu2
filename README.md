@@ -1,7 +1,9 @@
 ## Hi there 👋
 
 <!--
-**Anandhuuu2/Anandhuuu2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+** I'm Anandhu 👋
+
+I'm a Computer Science Engineering student at SBCE, Pattoor (Kerala), and I love figuring out how things work, then making them work my way.uuu2/Anandhuuu2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
