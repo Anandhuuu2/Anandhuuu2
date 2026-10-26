@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Anandhu 
+I'm Anandhu ,
 I'm a Computer Science Engineering student at SBCE, Pattoor (Kerala), and I love figuring out how things work, then making them work my way.
 <!--
 ** I'm Anandhu 👋
